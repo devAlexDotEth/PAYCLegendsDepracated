@@ -283,7 +283,7 @@ export const BlockchainContextProvider = (props) => {
         token = token.toString();
 
         const image =
-          "https://paycnft.mypinata.cloud/ipfs/QmTQiM3TjqwYbtaTMaoWuVRk8dqSxjvYviCorrLBaGGkdK/" +
+          "https://paycnft.mypinata.cloud/ipfs/Qme6MU5N87MbrS2XG2HcyMtR7u9iSQLE2F8hSLJLX6XJE1/" +
           token +
           ".png";
 

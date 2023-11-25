@@ -1,5 +1,5 @@
 const RewardContractData = {
-  address: "0xea3A82C8Fdd0f7e7fd36a58900FF9aA39995C9CE",
+  address: "0x0f4186a53774F4c73Cb90f278d26094cCe765720",
 
   abi: [
     { inputs: [], stateMutability: "nonpayable", type: "constructor" },
